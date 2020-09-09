@@ -15,7 +15,7 @@ import numpy as np
 from matplotlib import pyplot
 from sklearn.model_selection import train_test_split
 
-from lib_models_classifier import learning_class
+from AJ_models_classifier import learning_class
 from preprocess_flu import preprocess_data
 
 import streamlit as st
